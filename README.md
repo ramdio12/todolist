@@ -1,5 +1,10 @@
 # React + Vite
 
+##Grocery Buddy - A React JS Todo List App
+
+This project is created using React JS in Vite
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
